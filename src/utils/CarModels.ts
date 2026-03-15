@@ -1,0 +1,37 @@
+import type {Item} from "../types/Item"
+
+const carModels: Item[] = [
+    { label: 'Camry', value: 'camry' },
+    { label: 'Accord', value: 'accord' },
+    { label: 'Mustang', value: 'mustang' },
+    { label: 'Camaro', value: 'camaro' },
+    { label: 'Altima', value: 'altima' },
+    { label: 'Jetta', value: 'jetta' },
+    { label: 'S500', value: 's500' },
+    { label: '320d', value: '320d' },
+    { label: 'A4', value: 'a4' },
+    { label: 'Sonata', value: 'sonata' },
+    { label: 'Optima', value: 'optima' },
+    { label: 'Outback', value: 'outback' },
+    { label: 'CX-5', value: 'cx5' },
+    { label: 'Model S', value: 'model_s' },
+    { label: 'ES', value: 'es' },
+    { label: '911', value: '911' },
+    { label: 'Wrangler', value: 'wrangler' },
+    { label: 'Range Rover', value: 'range_rover' },
+    { label: '488', value: '488' },
+    { label: 'Huracan', value: 'huracan' },
+    { label: 'Chiron', value: 'chiron' },
+    { label: '720S', value: '720s' },
+    { label: 'Continental GT', value: 'continental_gt' },
+    { label: 'Phantom', value: 'phantom' },
+    { label: 'DB11', value: 'db11' },
+    { label: 'F-Type', value: 'f_type' },
+    { label: '500', value: '500' },
+    { label: 'Giulia', value: 'giulia' },
+    { label: 'Ghibli', value: 'ghibli' },
+    { label: 'XC90', value: 'xc90' },
+    { label: 'Cooper', value: 'cooper' },
+];
+
+export default carModels;

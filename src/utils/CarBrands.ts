@@ -1,0 +1,37 @@
+import type {Item} from "../types/Item"
+
+const carBrands: Item[] = [
+    { label: 'Toyota', value: 'toyota' },
+    { label: 'Honda', value: 'honda' },
+    { label: 'Ford', value: 'ford' },
+    { label: 'Chevrolet', value: 'chevrolet' },
+    { label: 'Nissan', value: 'nissan' },
+    { label: 'Volkswagen', value: 'volkswagen' },
+    { label: 'Mercedes-Benz', value: 'mercedes-benz' },
+    { label: 'BMW', value: 'bmw' },
+    { label: 'Audi', value: 'audi' },
+    { label: 'Hyundai', value: 'hyundai' },
+    { label: 'Kia', value: 'kia' },
+    { label: 'Subaru', value: 'subaru' },
+    { label: 'Mazda', value: 'mazda' },
+    { label: 'Tesla', value: 'tesla' },
+    { label: 'Lexus', value: 'lexus' },
+    { label: 'Porsche', value: 'porsche' },
+    { label: 'Jeep', value: 'jeep' },
+    { label: 'Land Rover', value: 'land-rover' },
+    { label: 'Ferrari', value: 'ferrari' },
+    { label: 'Lamborghini', value: 'lamborghini' },
+    { label: 'Bugatti', value: 'bugatti' },
+    { label: 'McLaren', value: 'mclaren' },
+    { label: 'Bentley', value: 'bentley' },
+    { label: 'Rolls-Royce', value: 'rolls-royce' },
+    { label: 'Aston Martin', value: 'aston-martin' },
+    { label: 'Jaguar', value: 'jaguar' },
+    { label: 'Fiat', value: 'fiat' },
+    { label: 'Alfa Romeo', value: 'alfa-romeo' },
+    { label: 'Maserati', value: 'maserati' },
+    { label: 'Volvo', value: 'volvo' },
+    { label: 'Mini', value: 'mini' },
+];
+
+export default carBrands;
